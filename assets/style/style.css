@@ -1,0 +1,23 @@
+.main__container {
+    min-height: 50rem;
+    padding: 2%;
+}
+
+.background-white {
+    background-color: #fff;
+}
+
+.background-dark {
+    background-color: #110B11;
+    color: #fff;
+}
+
+.background-warm {
+    background-color: #F08080;
+    color: #fff;
+}
+
+.background-cold {
+    background-color: #6D9DC5;
+    color: #fff;
+}
